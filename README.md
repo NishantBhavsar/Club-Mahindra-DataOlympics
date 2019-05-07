@@ -7,9 +7,9 @@ __RMSE * 100 : 97.3268376748__
 
 [__Private Leader Board Rank__](https://datahack.analyticsvidhya.com/contest/capillary-machine-learning-hackathon/pvt_lb) : 94/983
 
-[Analysis and data Preparation Notebook](https://github.com/NishantBhavsar/Product-recommendation-hackathon/blob/master/code/analysis_%26_data_prep.ipynb)
+[Analysis and data Preparation Notebook](https://nbviewer.jupyter.org/github/NishantBhavsar/Club-Mahindra-DataOlympics/blob/master/code/Analysis.ipynb)
 
-[Final model Notebook](https://github.com/NishantBhavsar/Product-recommendation-hackathon/blob/master/code/model.ipynb)
+[Final model Notebook](https://nbviewer.jupyter.org/github/NishantBhavsar/Club-Mahindra-DataOlympics/blob/master/code/models.ipynb)
 
 ### Problem Statement
 Club Mahindra (Club M) makes significant revenue from Food and Beverages (F&B) sales in their resorts. The members of Club M are offered a wide variety of items in either buffet or À la carte form. Following are some benefits that the model to predict the spend by a member in their next visit to a resort will bring:
